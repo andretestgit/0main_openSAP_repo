@@ -7,8 +7,10 @@ h1 {
 h2 {
     color: green;
     background: Yellow;
+    font-weight: Bold;
 }
 
 h3 {
     color: pink;
+    background: Green;
 }
